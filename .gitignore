@@ -1,4 +1,4 @@
 .DS_Store
 .idea
-.my_config/Config.py
+/my_config/Config.py
 README.md
